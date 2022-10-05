@@ -1,6 +1,7 @@
 # ML---Speed-Dating
 
 GOAL: 
+
 Use and apply different statistic model, Machine Learning Algortihm and Neural Network to a Speed Dating data set, to predict a 'macth' between 2 persons.
 
 CONTENT:
