@@ -16,6 +16,7 @@ Use and apply different statistic model, Machine Learning Algortihm and Neural N
 
 ### RESULT:
 
+[performance_summary](performance_summary.png)
 
 ### CONTENT:
 This zip folder has the following content
